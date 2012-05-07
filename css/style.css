@@ -98,6 +98,11 @@ a.btn.btn-large {
   margin-left: 48px;
 }
 
+.more-info p {
+  font-size: 12px;
+  line-height: 18px;
+}
+
 .container > .row {
   margin-bottom: 96px;
 }
@@ -119,3 +124,4 @@ img {
   display: block;
   margin: auto;
 }
+
